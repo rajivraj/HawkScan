@@ -1172,6 +1172,9 @@ if __name__ == '__main__':
     auto = results.auto
     update = results.update
 
+    if len(sys.argv) < 2:
+        print("{} URL target is missing, try using -u <url> or -h for help".format(INFO))
+        sys.exit()
     banner()
     if update:
         auto_update()
