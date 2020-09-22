@@ -56,6 +56,7 @@ This script use "waybacktool" to check in waybackmachine (https://github.com/Rhy
  - [ ] JS parsing and analysis [P1]
  - [ ] Analyse html code webpage [P1]
  - [ ] On-the-fly writing report [P1]
+ - [ ] Webengine for MacOS [P2]
  - [ ] Check HTTP headers/ssl security [P2]
  - [ ] Fuzzing amazonaws S3 Buckets [P2]
  - [ ] Anonymous routing through some proxy (http/s proxy list) [P2]
